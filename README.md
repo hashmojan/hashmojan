@@ -62,7 +62,7 @@ My focus is simple: build mobile apps that are clean, maintainable, scalable, an
 - Integrating REST APIs, Firebase services, authentication flows, role-based systems, real-time features, Google Maps, payment workflows, and AI-powered functionality
 - Collaborating with project managers, backend developers, UI/UX designers, and QA teams to improve app stability, performance, and user experience
 
-### Flutter Developer — Nextera Software Company
+### Flutter Developer — Nexum Technologies, Peshawar
 **Mar 2023 – Dec 2025**
 
 - Developed and deployed production-grade Flutter applications for local and international clients
